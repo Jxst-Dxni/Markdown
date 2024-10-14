@@ -1,4 +1,4 @@
-# Die hHöhe einer Brücke Berechnen
+# Die Höhe einer Brücke Berechnen
 Wenn man von einer Brücke einen Stein fallen lässt und dabei die Zeit mißt, kann man due Höhe dieser Brücke berechnen.
 
 Die benötigte Formel lautet:
