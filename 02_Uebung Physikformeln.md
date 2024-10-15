@@ -15,3 +15,10 @@ $$ F_g = m \cdot g $$
 >
 >  $[F] = \frac{kg \cdot m}{s^2} = N$ 
 
+
+
+## 2. Elektrotechnik 
+### 2.1 Elektrisches Potential
+
+
+$$\varphi(r) = \int_(\vec(r_0))^(\vec(r))  \vec(E) (\vec(r)) $$
